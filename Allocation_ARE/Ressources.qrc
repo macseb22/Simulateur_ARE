@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Ressources/logo_poleEmploi.jpg</file>
+        <file>Ressources/background.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Ressources/Fonts/Hanabilla.otf</file>
+        <file>Ressources/Fonts/handlove.otf</file>
+        <file>Ressources/Fonts/Happy Sunday.ttf</file>
+        <file>Ressources/Fonts/Harsey DEMO.ttf</file>
+    </qresource>
+    <qresource prefix="/icones">
+        <file>Ressources/Icones/ico_quit.png</file>
+        <file>Ressources/Icones/ico_quit.ico</file>
+    </qresource>
+</RCC>
